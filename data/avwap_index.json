@@ -1,0 +1,356 @@
+{
+  "source": "data/avwap_market_latest.csv",
+  "total_rows": 3686,
+  "asof_jst": "2026-11-14",
+  "price_date": "2026-11-13",
+  "chunks": {
+    "13": {
+      "path": "data/chunks/13.csv",
+      "count": 16
+    },
+    "14": {
+      "path": "data/chunks/14.csv",
+      "count": 29
+    },
+    "15": {
+      "path": "data/chunks/15.csv",
+      "count": 9
+    },
+    "16": {
+      "path": "data/chunks/16.csv",
+      "count": 7
+    },
+    "17": {
+      "path": "data/chunks/17.csv",
+      "count": 28
+    },
+    "18": {
+      "path": "data/chunks/18.csv",
+      "count": 45
+    },
+    "19": {
+      "path": "data/chunks/19.csv",
+      "count": 48
+    },
+    "20": {
+      "path": "data/chunks/20.csv",
+      "count": 11
+    },
+    "21": {
+      "path": "data/chunks/21.csv",
+      "count": 44
+    },
+    "22": {
+      "path": "data/chunks/22.csv",
+      "count": 34
+    },
+    "23": {
+      "path": "data/chunks/23.csv",
+      "count": 44
+    },
+    "24": {
+      "path": "data/chunks/24.csv",
+      "count": 49
+    },
+    "25": {
+      "path": "data/chunks/25.csv",
+      "count": 20
+    },
+    "26": {
+      "path": "data/chunks/26.csv",
+      "count": 34
+    },
+    "27": {
+      "path": "data/chunks/27.csv",
+      "count": 43
+    },
+    "28": {
+      "path": "data/chunks/28.csv",
+      "count": 34
+    },
+    "29": {
+      "path": "data/chunks/29.csv",
+      "count": 49
+    },
+    "30": {
+      "path": "data/chunks/30.csv",
+      "count": 56
+    },
+    "31": {
+      "path": "data/chunks/31.csv",
+      "count": 63
+    },
+    "32": {
+      "path": "data/chunks/32.csv",
+      "count": 36
+    },
+    "33": {
+      "path": "data/chunks/33.csv",
+      "count": 45
+    },
+    "34": {
+      "path": "data/chunks/34.csv",
+      "count": 53
+    },
+    "35": {
+      "path": "data/chunks/35.csv",
+      "count": 39
+    },
+    "36": {
+      "path": "data/chunks/36.csv",
+      "count": 64
+    },
+    "37": {
+      "path": "data/chunks/37.csv",
+      "count": 38
+    },
+    "38": {
+      "path": "data/chunks/38.csv",
+      "count": 42
+    },
+    "39": {
+      "path": "data/chunks/39.csv",
+      "count": 75
+    },
+    "40": {
+      "path": "data/chunks/40.csv",
+      "count": 64
+    },
+    "41": {
+      "path": "data/chunks/41.csv",
+      "count": 46
+    },
+    "42": {
+      "path": "data/chunks/42.csv",
+      "count": 55
+    },
+    "43": {
+      "path": "data/chunks/43.csv",
+      "count": 60
+    },
+    "44": {
+      "path": "data/chunks/44.csv",
+      "count": 72
+    },
+    "45": {
+      "path": "data/chunks/45.csv",
+      "count": 59
+    },
+    "46": {
+      "path": "data/chunks/46.csv",
+      "count": 54
+    },
+    "47": {
+      "path": "data/chunks/47.csv",
+      "count": 47
+    },
+    "48": {
+      "path": "data/chunks/48.csv",
+      "count": 41
+    },
+    "49": {
+      "path": "data/chunks/49.csv",
+      "count": 46
+    },
+    "50": {
+      "path": "data/chunks/50.csv",
+      "count": 29
+    },
+    "51": {
+      "path": "data/chunks/51.csv",
+      "count": 30
+    },
+    "52": {
+      "path": "data/chunks/52.csv",
+      "count": 42
+    },
+    "53": {
+      "path": "data/chunks/53.csv",
+      "count": 24
+    },
+    "54": {
+      "path": "data/chunks/54.csv",
+      "count": 28
+    },
+    "55": {
+      "path": "data/chunks/55.csv",
+      "count": 31
+    },
+    "56": {
+      "path": "data/chunks/56.csv",
+      "count": 17
+    },
+    "57": {
+      "path": "data/chunks/57.csv",
+      "count": 18
+    },
+    "58": {
+      "path": "data/chunks/58.csv",
+      "count": 36
+    },
+    "59": {
+      "path": "data/chunks/59.csv",
+      "count": 65
+    },
+    "60": {
+      "path": "data/chunks/60.csv",
+      "count": 58
+    },
+    "61": {
+      "path": "data/chunks/61.csv",
+      "count": 51
+    },
+    "62": {
+      "path": "data/chunks/62.csv",
+      "count": 59
+    },
+    "63": {
+      "path": "data/chunks/63.csv",
+      "count": 65
+    },
+    "64": {
+      "path": "data/chunks/64.csv",
+      "count": 59
+    },
+    "65": {
+      "path": "data/chunks/65.csv",
+      "count": 62
+    },
+    "66": {
+      "path": "data/chunks/66.csv",
+      "count": 45
+    },
+    "67": {
+      "path": "data/chunks/67.csv",
+      "count": 47
+    },
+    "68": {
+      "path": "data/chunks/68.csv",
+      "count": 52
+    },
+    "69": {
+      "path": "data/chunks/69.csv",
+      "count": 51
+    },
+    "70": {
+      "path": "data/chunks/70.csv",
+      "count": 63
+    },
+    "71": {
+      "path": "data/chunks/71.csv",
+      "count": 44
+    },
+    "72": {
+      "path": "data/chunks/72.csv",
+      "count": 56
+    },
+    "73": {
+      "path": "data/chunks/73.csv",
+      "count": 47
+    },
+    "74": {
+      "path": "data/chunks/74.csv",
+      "count": 41
+    },
+    "75": {
+      "path": "data/chunks/75.csv",
+      "count": 49
+    },
+    "76": {
+      "path": "data/chunks/76.csv",
+      "count": 46
+    },
+    "77": {
+      "path": "data/chunks/77.csv",
+      "count": 48
+    },
+    "78": {
+      "path": "data/chunks/78.csv",
+      "count": 60
+    },
+    "79": {
+      "path": "data/chunks/79.csv",
+      "count": 57
+    },
+    "80": {
+      "path": "data/chunks/80.csv",
+      "count": 59
+    },
+    "81": {
+      "path": "data/chunks/81.csv",
+      "count": 48
+    },
+    "82": {
+      "path": "data/chunks/82.csv",
+      "count": 31
+    },
+    "83": {
+      "path": "data/chunks/83.csv",
+      "count": 39
+    },
+    "84": {
+      "path": "data/chunks/84.csv",
+      "count": 8
+    },
+    "85": {
+      "path": "data/chunks/85.csv",
+      "count": 23
+    },
+    "86": {
+      "path": "data/chunks/86.csv",
+      "count": 15
+    },
+    "87": {
+      "path": "data/chunks/87.csv",
+      "count": 26
+    },
+    "88": {
+      "path": "data/chunks/88.csv",
+      "count": 25
+    },
+    "89": {
+      "path": "data/chunks/89.csv",
+      "count": 22
+    },
+    "90": {
+      "path": "data/chunks/90.csv",
+      "count": 51
+    },
+    "91": {
+      "path": "data/chunks/91.csv",
+      "count": 23
+    },
+    "92": {
+      "path": "data/chunks/92.csv",
+      "count": 51
+    },
+    "93": {
+      "path": "data/chunks/93.csv",
+      "count": 50
+    },
+    "94": {
+      "path": "data/chunks/94.csv",
+      "count": 38
+    },
+    "95": {
+      "path": "data/chunks/95.csv",
+      "count": 35
+    },
+    "96": {
+      "path": "data/chunks/96.csv",
+      "count": 39
+    },
+    "97": {
+      "path": "data/chunks/97.csv",
+      "count": 44
+    },
+    "98": {
+      "path": "data/chunks/98.csv",
+      "count": 38
+    },
+    "99": {
+      "path": "data/chunks/99.csv",
+      "count": 42
+    }
+  }
+}
