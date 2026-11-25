@@ -1,8 +1,8 @@
 {
   "source": "data/avwap_market_latest.csv",
   "total_rows": 3686,
-  "asof_jst": "2026-11-24",
-  "price_date": "2026-11-24",
+  "asof_jst": "2026-11-25",
+  "price_date": "2026-11-25",
   "chunks": {
     "13": {
       "path": "data/chunks/13.csv",
